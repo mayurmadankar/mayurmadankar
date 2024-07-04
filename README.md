@@ -1,21 +1,21 @@
 ![logo](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mayur Madankar</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/madankarmayur5" target="blank"><img src="https://img.shields.io/twitter/follow/madankarmayur5?logo=twitter&style=for-the-badge" alt="madankarmayur5" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **E-commerce Platform**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **JAVA , DSA**
 
 - 📫 How to reach me **madankarmayur5@gmail.com**
 
-- 📄 Know about my experiences (http://surl.li/jxisu)
+- 📄 Know about my experiences (https://shorturl.at/vASu0)
 
 - ⚡ Fun fact **Exercising improves brain performance**
 
