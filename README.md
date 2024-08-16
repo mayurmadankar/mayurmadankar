@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Platform**
+- 🔭 I’m currently working on **PostAway Api(Social Media Platform)**
 
 - 🌱 I’m currently learning **MongoDB(DataBase)**
 
-- 💬 Ask me about **JAVA,DSA,JAVASCRIPT**
+- 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
 - 📫 How to reach me **madankarmayur5@gmail.com**
 
