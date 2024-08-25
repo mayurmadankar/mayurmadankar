@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **madankarmayur5@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/30vstz)
+- 📄 Know about my experiences [Resume](https://rb.gy/jf7qjj)
 
 - ⚡ Fun fact **Exercising improves brain performance**
   
