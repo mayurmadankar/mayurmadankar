@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working on **PostAway (Social Media Platform)**
+- 🔭 I’m currently working on **StoreFleet**
 
-- 🌱 I’m currently learning **MongoDB(DataBase)**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
