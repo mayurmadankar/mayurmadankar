@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **StoreFleet**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
