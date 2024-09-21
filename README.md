@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **StoreFleet**
 
-- 🌱 I’m currently learning ** DSA,REACT**
+- 🌱 I’m currently learning **DSA,REACT**
 
 - 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
