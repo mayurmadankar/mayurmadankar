@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **DSA,REACT**
+- 🌱 I’m currently learning **REACT**
 
 - 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
