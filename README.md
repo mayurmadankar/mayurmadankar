@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **I Pod Project**
 
 - 🌱 I’m currently learning **REACT**
 
