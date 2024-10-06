@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **I Pod Project**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Styling in REACT**
 
 - 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
 
