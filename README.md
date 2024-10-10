@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Styling in REACT**
 
-- 💬 Ask me about **JAVA,DSA,JAVASCRIPT,MERN**
+- 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
 - 📫 How to reach me **madankarmayur5@gmail.com**
 
