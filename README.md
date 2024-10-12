@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Movie App**
 
-- 🌱 I’m currently learning **Styling in REACT**
+- 🌱 I’m currently learning **Styling in React**
 
 - 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
