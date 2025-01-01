@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working on **PhotoFolio**
+- 🔭 I’m currently working on **BusyBuy (E-commerce Platform)**
 
-- 🌱 I’m currently learning **React Router**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
