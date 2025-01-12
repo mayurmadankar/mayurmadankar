@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **BusyBuy (E-commerce Platform)**
 
-- 🌱 I’m currently learning **Redux Advanced ToolKit**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
