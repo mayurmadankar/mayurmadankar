@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working on **TEN AI**
+- 🔭 I’m currently working on **The Entrepreneur Network Internship**
 
 - 🌱 I’m currently learning **Operating System**
 
