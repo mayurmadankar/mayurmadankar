@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmadankar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmadankar" /> </p>
 
-- 🔭 I’m currently working in **Workfall**
+- 🔭 I’m currently working in **Bharat TeleClinic**
 
-- 🌱 I’m currently learning **Operating System**
+- 🌱 I’m currently learning **WordPress**
 
 - 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
