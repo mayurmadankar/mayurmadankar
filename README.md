@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Bharat Teleclinic Pvt. Ltd.**
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **JAVA, DSA, JAVASCRIPT, MERN**
 
